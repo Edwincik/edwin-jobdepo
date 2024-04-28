@@ -1,5 +1,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1092877100781944862)](https://discord.com/users/1092877100781944862)
 
+
+
 * https://discord.gg/azuredev
 
 * QBCORE JOBLU KİŞİSEL DEPO GÜNCELL SORUNSUZ ÇALIŞMAKTADIR
